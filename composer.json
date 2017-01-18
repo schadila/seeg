@@ -1,0 +1,21 @@
+{
+    "name": "seestrasse/seeg-one",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "Seeg One",
+    "description": "Seestrasse Theme.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pagekit",
+            "email": "info@pagekit.com",
+            "homepage": "http://pagekit.com"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    },
+    "archive": {
+        "exclude": ["!/css", "!/app"]
+    }
+}
